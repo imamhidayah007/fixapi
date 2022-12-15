@@ -15,7 +15,7 @@
     "cryptr": "^2.0.0",
     "dotenv": "^4.0.0",
     "ejs": "*",
-    "express": "4.8.7",
+    "express": "4.17.3",
     "jsonwebtoken": "^7.4.1",
     "md5": "^2.2.1",
     "mysql": "^2.13.0",
